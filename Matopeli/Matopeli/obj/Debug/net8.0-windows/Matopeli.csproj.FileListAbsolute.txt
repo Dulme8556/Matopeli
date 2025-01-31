@@ -1,0 +1,16 @@
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.csproj.GenerateResource.cache
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.AssemblyInfoInputs.cache
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.AssemblyInfo.cs
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.csproj.CoreCompileInputs.cache
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\bin\Debug\net8.0-windows\Matopeli.exe
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\bin\Debug\net8.0-windows\Matopeli.deps.json
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\bin\Debug\net8.0-windows\Matopeli.runtimeconfig.json
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\bin\Debug\net8.0-windows\Matopeli.dll
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\bin\Debug\net8.0-windows\Matopeli.pdb
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.dll
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\refint\Matopeli.dll
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.pdb
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.genruntimeconfig.cache
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\ref\Matopeli.dll
+C:\Users\gr289361\Desktop\Omat jutut\Matopeli\Matopeli\obj\Debug\net8.0-windows\Matopeli.Peli.resources
